@@ -1,5 +1,5 @@
 
-# Welcome! I'm Liz Gewirtz, Data Scientist
+# Welcome! I'm Liz Gewirtz, Data Analyst
 
 ## I like to work with Python, Panda, Numpy and Jupyter Notebook, and also have experience with Excel and VBA, SQL and Tableau.
 
